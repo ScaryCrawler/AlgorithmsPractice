@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{88F71113-7A3C-4780-8411-6378FC7E3E91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{DB5FD78F-511E-4EBF-B7AC-89DF9783F021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresTest", "DataStructuresTest\DataStructuresTest.csproj", "{0A0EC0FA-446E-4C08-8583-C9CC1BBFF3FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +10,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{88F71113-7A3C-4780-8411-6378FC7E3E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{88F71113-7A3C-4780-8411-6378FC7E3E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{88F71113-7A3C-4780-8411-6378FC7E3E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{88F71113-7A3C-4780-8411-6378FC7E3E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5FD78F-511E-4EBF-B7AC-89DF9783F021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5FD78F-511E-4EBF-B7AC-89DF9783F021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5FD78F-511E-4EBF-B7AC-89DF9783F021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5FD78F-511E-4EBF-B7AC-89DF9783F021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0EC0FA-446E-4C08-8583-C9CC1BBFF3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0EC0FA-446E-4C08-8583-C9CC1BBFF3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0EC0FA-446E-4C08-8583-C9CC1BBFF3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0EC0FA-446E-4C08-8583-C9CC1BBFF3FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
