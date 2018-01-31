@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStruc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresTest", "DataStructuresTest\DataStructuresTest.csproj", "{0A0EC0FA-446E-4C08-8583-C9CC1BBFF3FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelProgramming", "ParallelProgramming\ParallelProgramming.csproj", "{EADD2973-13E5-48BF-9665-61C1010F5DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelProgrammingTest", "ParallelProgrammingTest\ParallelProgrammingTest.csproj", "{8BB8E4FA-C7EA-46F0-8F65-F4088387627E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{0A0EC0FA-446E-4C08-8583-C9CC1BBFF3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A0EC0FA-446E-4C08-8583-C9CC1BBFF3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A0EC0FA-446E-4C08-8583-C9CC1BBFF3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADD2973-13E5-48BF-9665-61C1010F5DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADD2973-13E5-48BF-9665-61C1010F5DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADD2973-13E5-48BF-9665-61C1010F5DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADD2973-13E5-48BF-9665-61C1010F5DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB8E4FA-C7EA-46F0-8F65-F4088387627E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB8E4FA-C7EA-46F0-8F65-F4088387627E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB8E4FA-C7EA-46F0-8F65-F4088387627E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB8E4FA-C7EA-46F0-8F65-F4088387627E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
